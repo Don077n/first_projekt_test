@@ -3,5 +3,6 @@ print("12345")
 print("98")
 
 n= 5
-git
+y = git
 m= 10
+r =5
